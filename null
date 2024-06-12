@@ -1,0 +1,11 @@
+
+   ERROR  Command "cron:run" is not defined. Did you mean one of these?  
+
+  ⇂ cache:prune-stale-tags  
+  ⇂ cron:execute-jobs  
+  ⇂ model:prune  
+  ⇂ queue:prune-batches  
+  ⇂ queue:prune-failed  
+  ⇂ sanctum:prune-expired  
+  ⇂ schedule:run  
+
